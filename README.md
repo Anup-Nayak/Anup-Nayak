@@ -1,10 +1,10 @@
 <h1 align = "center">Hi there! I'm Anup Nayak! 👋</h1> 
 <h2 align = "center">A CSE junior in IIT Delhi, India.</h2>
 
-- 🌱 I’m currently learning about about **Advanced Algorithms, Operating Systems, Computer Networks and Game Theory.**
-- 🔭 Some of my favourite learnings are **Computer Architecture, Data Structures & Algorithms, Programming Languages, Probability & Stochastic Processes, Discrete Mathematics, Digital Logic & System Design.**
-- 📫 Reach me at anup.cse.iitd@gmail.com
-- ⚡ Hobbies: I love to Cricket and Chess! 😃
+-  I’m currently learning about about **Advanced Algorithms, Operating Systems, Computer Networks and Game Theory.**
+-  Some of my favourite learnings are *Computer Architecture, Data Structures & Algorithms, Programming Languages, Probability & Stochastic Processes, Discrete Mathematics, Digital Logic & System Design.*
+-  Reach me at anup.cse.iitd@gmail.com .
+-  Hobbies: I love to Cricket and Chess! 😃
 
 <h3 align="left">Connect with me</h3>
 <div align="center">
