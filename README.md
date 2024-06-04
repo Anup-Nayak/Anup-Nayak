@@ -4,7 +4,7 @@
 -  I’m currently learning about about **Advanced Algorithms, Operating Systems, Computer Networks and Game Theory.**
 -  Some of my favourite learnings are *Computer Architecture, Data Structures & Algorithms, Programming Languages, Probability & Stochastic Processes, Discrete Mathematics, Digital Logic & System Design.*
 -  Reach me at anup.cse.iitd@gmail.com .
--  Hobbies: I love to Cricket and Chess! 😃
+-  Hobbies: I love to play Cricket and Chess! 😃
 
 <h3 align="left">Connect with me</h3>
 <div align="center">
