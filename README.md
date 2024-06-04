@@ -2,26 +2,26 @@
 <h2 align = "center">A CSE junior in IIT Delhi, India.</h2>
 
 - 🌱 I’m currently learning about about **Advanced Algorithms, Operating Systems, Computer Networks and Game Theory.**
+- 🔭 Some of my favourite learnings are **Computer Architecture, Data Structures & Algorithms, Programming Languages, Probability & Stochastic Processes, Discrete Mathematics, Digital Logic & System Design.**
 - 📫 Reach me at anup.cse.iitd@gmail.com
 - ⚡ Hobbies: I love to Cricket and Chess! 😃
 
 <h3 align="left">Connect with me</h3>
 <div align="center">
-  <a href="www.linkedin.com/in/anupnayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anup nayak" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/anup._nayak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anup nayak" height="30" width="40" /></a>
+  <a href="www.linkedin.com/in/anupnayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anupnayak" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/anup._nayak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anup._nayak" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/anup_nayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anup_nayak" height="30" width="40" /></a>
 </div>
 
 <h3 align="left">Currently Working with</h3>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" height="40" alt="flask logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" height="40" alt="ocaml logo"  />
   <img width="12" />
