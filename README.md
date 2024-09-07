@@ -1,5 +1,5 @@
 <h1 align = "center">Hi there! I'm Anup Nayak! 👋</h1> 
-<h2 align = "center">A CSE 3rd year at IIT Delhi, India.</h2>
+<h2 align = "center">A CSE Junior at IIT Delhi, India.</h2>
 
 -  I’m currently learning about about **Advanced Algorithms, Operating Systems, Computer Networks and Game Theory.**
 -  Some of my favourite learnings are *Computer Architecture, Data Structures & Algorithms, Programming Languages, Probability & Stochastic Processes, Discrete Mathematics, Digital Logic & System Design.*
